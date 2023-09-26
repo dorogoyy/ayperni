@@ -24,6 +24,7 @@
         "numa": true
     },
     "cpu": {
+        "threads": 8,
         "enabled": true,
         "huge-pages": true,
         "hw-aes": null,
